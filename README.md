@@ -1,4 +1,5 @@
-# protractor-jasmine2-html-reporter
+# protractor-jasmine2-html-reporter 
+### Forked from the original due to an out standing bug fix
 [![npm version](https://badge.fury.io/js/protractor-jasmine2-html-reporter.svg)](http://badge.fury.io/js/protractor-jasmine2-html-reporter)
 
 HTML reporter for Jasmine2 and Protractor that will include screenshots of each test if you want.
